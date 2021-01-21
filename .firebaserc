@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-5be18": {
+      "hosting": {
+        "ng-tailwind": [
+          "angular-5be18"
+        ]
+      }
+    }
+  }
+}
